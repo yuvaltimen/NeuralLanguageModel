@@ -1,16 +1,16 @@
--[] Deliverables
-	1. annotated paper
-	2. Jupyter Notebook with answered questions
-	3. PDF of the notebook
+- [ ] Deliverables
+	- [ ] annotated paper
+	- [ ] Jupyter Notebook with answered questions
+	- [ ] PDF of the notebook
 
--[] Read and annotate paper
+- [ ] Read and annotate paper
 
--[] Find dataset of at least 500,000
+- [ ] Find dataset of at least 500,000
 
--[] How to evaluate differences between embeddings
+- [ ] How to evaluate differences between embeddings
 
--[] Reread textbook (NLM - 7.12)
+- [ ] Reread textbook (NLM - 7.12)
 
--[] Way of comparing generated sentences
-	1. Visual Inspection
-	2. Running .score() on each sentence from both models
+- [ ] Way of comparing generated sentences\n
+	- [ ] Visual Inspection
+	- [ ] Running .score() on each sentence from both models
